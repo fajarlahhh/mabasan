@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-05-03 13:07:57
+/* Smarty version 3.1.34-dev-7, created on 2020-05-05 00:23:58
   from 'plugins-plugins-generic-staticPages-generic-staticPages:staticPagesTab.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5eaea60d44bf29_21668456',
+  'unifunc' => 'content_5eb095fecb9067_24288318',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5eaea60d44bf29_21668456 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5eb095fecb9067_24288318 (Smarty_Internal_Template $_smarty_tpl) {
 ?><tab id="staticPages" label="<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['translate'][0], array( array('key'=>"plugins.generic.staticPages.staticPages"),$_smarty_tpl ) );?>
 ">
 	<?php $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', 'staticPageGridUrl', null);

@@ -35,7 +35,7 @@
 				{$pageFooter}
 			</div>
 		{/if}
-
+		<hr>
 		<div class="pkp_brand_footer" role="complementary">
 			<a href="{url page="about" op="aboutThisPublishingSystem"}">
 				<img alt="{translate key="about.aboutThisPublishingSystem"}" src="{$baseUrl}/{$brandImage}">
