@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-05-05 00:05:14
+/* Smarty version 3.1.34-dev-7, created on 2020-05-05 04:57:47
   from 'app:frontendobjectsissuetoc.t' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5eb0919a9d7fa7_76917888',
+  'unifunc' => 'content_5eb0d62b2d01c1_93779964',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:frontend/objects/article_summary.tpl' => 1,
   ),
 ),false)) {
-function content_5eb0919a9d7fa7_76917888 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5eb0d62b2d01c1_93779964 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\xampp\\htdocs\\mabasan\\lib\\pkp\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 ?>
 <div class="obj_issue_toc">

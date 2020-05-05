@@ -6,7 +6,7 @@
     3 => 'tools',
     4 => 'visitor',
     5 => 'associated',
-    6 => 'ethicstatement',
+    6 => 'ethic',
   ),
   'enabled' => true,
 );

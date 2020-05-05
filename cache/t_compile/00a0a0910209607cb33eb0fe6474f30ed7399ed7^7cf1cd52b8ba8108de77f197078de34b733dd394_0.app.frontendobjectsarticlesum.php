@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-05-05 00:05:14
+/* Smarty version 3.1.34-dev-7, created on 2020-05-05 04:57:47
   from 'app:frontendobjectsarticlesum' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5eb0919aa08c68_36536615',
+  'unifunc' => 'content_5eb0d62b2fd2d6_38568541',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:frontend/objects/galley_link.tpl' => 1,
   ),
 ),false)) {
-function content_5eb0919aa08c68_36536615 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5eb0d62b2fd2d6_38568541 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\xampp\\htdocs\\mabasan\\lib\\pkp\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 $_smarty_tpl->_assignInScope('articlePath', $_smarty_tpl->tpl_vars['article']->value->getBestId());?>
 

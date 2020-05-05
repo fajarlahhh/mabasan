@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-05-05 00:05:14
+/* Smarty version 3.1.34-dev-7, created on 2020-05-05 04:57:47
   from 'app:frontendcomponentsheader.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5eb0919a8961b8_80861385',
+  'unifunc' => 'content_5eb0d62b188146_46483131',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:frontend/components/searchForm_simple.tpl' => 2,
   ),
 ),false)) {
-function content_5eb0919a8961b8_80861385 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5eb0d62b188146_46483131 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\xampp\\htdocs\\mabasan\\lib\\pkp\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),));
 ?>
 	<?php $_smarty_tpl->_assignInScope('showingLogo', true);

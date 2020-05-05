@@ -1,0 +1,13 @@
+<?php return array (
+  'emails.orcidCollectAuthorId.subject' => 'ORCID för bidrag',
+  'emails.orcidCollectAuthorId.body' => 'Hej {$authorName}!
+
+Du är listad som medförfattare till bidraget "{$submissionTitle}" till {$contextName}. 
+
+För att bekräfta ditt författarskap, lägg till ditt ORCID-iD genom att följa länken nedan.
+
+{$authorOrcidUrl}
+
+Kontakta gärna mig om du har några frågor.',
+  'emails.orcidCollectAuthorId.description' => 'Den här e-postmallen används för att samla in ORCID-iD:n från medförfattare.',
+);
